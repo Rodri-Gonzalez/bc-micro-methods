@@ -1,0 +1,18 @@
+*******************************
+EMPIRICAL METHODS FINAL PROJECT
+*******************************
+05/12/2021
+
+The repository contains a set of files needed to simulate the data in the paper
+"A Structural Model of the Retail Market for Illicit Drugs" by Manolis Galenianos and 
+Alessandro Gavazza (AER, Vol.107, No.3, March 2017).
+
+The results of the simulation, plus a counterfactual of what would happen in the market 
+in case matching efficiency exogenously raises, are contained in the .pdf file. 
+
+To simulate the data of the paper and compute the counterfactual analysis, download the files 
+of this folder and run "main.m".
+
+Rodrigo Gonzalez
+*******************************
+
